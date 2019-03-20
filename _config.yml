@@ -29,11 +29,11 @@ menu:
     url: /custom
 
 # 你的头像url
-avatar: /img/avatar.jpg
+avatar: /img/cover0.png
 # avatar link
 avatar_link: /
 # 头像背景图
-brand: /img/brand.jpg
+brand: /img/drawerCover.jpg
 # favicon
 favicon: /favicon.ico
 
@@ -118,10 +118,10 @@ gitment: false
 
 # use gitalk://github.com/gitalk/gitalk
 gitalk: false
-#  owner: 
-#  repo: 
-#  client_id: 
-#  client_secret: 
+#  owner:
+#  repo:
+#  client_id:
+#  client_secret:
 
 # Valine Comment system. https://valine.js.org
 valine:
